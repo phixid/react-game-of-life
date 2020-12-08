@@ -1,1 +1,1 @@
-export const borderColor = '#dfdfdf';
+export const borderColor = '#cfcfcf';
